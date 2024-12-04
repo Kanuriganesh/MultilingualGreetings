@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MultilingualGreetings/static/css/main.95e3e268.css",
+    "main.css": "/MultilingualGreetings/static/css/main.9012edde.css",
     "main.js": "/MultilingualGreetings/static/js/main.2a6bf4df.js",
     "index.html": "/MultilingualGreetings/index.html",
-    "main.95e3e268.css.map": "/MultilingualGreetings/static/css/main.95e3e268.css.map",
+    "main.9012edde.css.map": "/MultilingualGreetings/static/css/main.9012edde.css.map",
     "main.2a6bf4df.js.map": "/MultilingualGreetings/static/js/main.2a6bf4df.js.map"
   },
   "entrypoints": [
-    "static/css/main.95e3e268.css",
+    "static/css/main.9012edde.css",
     "static/js/main.2a6bf4df.js"
   ]
 }
